@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coral-mariner-283710",
+  "private_key_id": "62034b02fb4aa32bfc749e47fd2cab8a64320113",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCSbHu8PrEkdCqY\n3tVV6w8UCTkPi5mDVlQWPEdrNDcgFIGO8k2HWB27XxAlnD0HiUlIECskPmIKYc1j\nC4UX8lF/mwr1a6cBXmFt3WdxIwgAPdFCAxEsHYkFkWPp9l2Lvip9Y6ZuOgsPUYe6\nAip/dZDI40E1Huk7J0PbpPfITOKWlzFUz+VOW3mpohYr8yMejAu3MHG0qs56s55O\nIQ0IQOI/kRdauPbvePbTOPy/p7FPZp4l6g+3sR1Hzp098gWD59CeEU7So2PSaWio\n08N1e3/cz6oacUiaHjPQuSmz0TR7zuFUGdek8K4CF/JoIwzwRgK8Ufvlzv3i3Pf0\nI0dcHrahAgMBAAECgf8BEgiyIHdQgIPZU2ymFk0Hb73vachyPAddS7x/vrsFh5g/\nXooocJ1bxd48hoIwhFN0ojZGTtJdiOgtnhb+alAzRhTXB2xgL3t0paOmE0DtDG1Z\nT3XKGf3e3HygRud+bnu7mW+43ArKXUMXpi8v7edLDyihA6R5NPxLiAMD7citIZeF\nZPVTyXneaL5iC6687onO6mWta7gf3olNjudBDLKgmegfwK6becZn3yfRuH6Cq+no\ny1aY23x03Vf4Rqom396uSkl/MVwb/yTBlbWGm2h0dT8D7lWUlrx6gqZ6Scd3qkjP\nZqnkzU7SxRhhFFZtPUkZ3MYQ02kZrp6+iSeW4NcCgYEAyRGEpojRajJrW2yTNCJe\nDMPg4CuPl855GCQ0/nCrtcp2cloydRseyvE5FHsI/zhttDQIjJ+CYj5BS/cexsDq\njjtbl0GfkmZIOQOpxZKutdVwvj2FL06Q9XiG5p4jcZAPLXTKtItAzf+E06R+UzSW\nbAcfB0StVXAhmeX+9M5MrAMCgYEAum0u+lXbkP82NprGEfw3PDA4EAccGlBfugZH\n3R0S+PNF1Jamb/IjKxINa3uqs/85FcGyH99qcDSroTsNWjJqehOCsDQRNXh3J0gF\nHHEAArM+SC0JlbSu+JN1P5WTRwPaE22Lwkd6VthNtCHiKvf6oS6dB6b7ixU60Y07\nm/9zG4sCgYAySBw5HTvpZ8RrL4K8Zd/JJ27kAGC/YNXtkJhkDL8UDhaC0EWP/YE8\n1QgmNAJy+KSOjPiaWgVcFh90JM9gervtZ7Cm6bVDAisLfvwEuYLRXBf+qxnUU7xy\ndnqdz2wjqRfykSNj9PL20PBhkOA6ZIs9ZqZ+xdDm7cypVNfmVnTcCwKBgBMeWWAA\n6BiRo7yr2L5FcGCyzT0PjZlBPt/z/vC1J5nyUOoBXSZD3clv+4JXV2VIOlF54MuV\n/PNu418QkEj8vKCyWYe6fz1NkmKr5yJIkGi2ex+pxr7cnckOTkrsCwOQaI/vfxK4\ng9peKnHbu7cOYVygTChZvpg/4B1Xb5KK+wILAoGAW7uM0+yEp+vuEcvvjJbX14JR\n7rFUcs0yO+2SZEINYWQ1OgJF2rwxPNF0PStVQXYISjXtwGDH9EqcxqeETJdrwKkt\nuzolGnuXztWVnC5z3XDsmEjLRx/ZT9WrM8d4QJqyOjKLquT+papjRWROPT5/WSr1\n18TWqXM8tQ0+UvmR4q0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheets@coral-mariner-283710.iam.gserviceaccount.com",
+  "client_id": "101587686840669042751",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheets%40coral-mariner-283710.iam.gserviceaccount.com"
+}
